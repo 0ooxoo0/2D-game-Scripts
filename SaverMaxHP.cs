@@ -24,11 +24,6 @@ public class SaverMaxHP : MonoBehaviour
             Player.MaxhealthStatic = MaxHP;
         }
     }
-
-    //public void Update()
-    //{
-    //    MaxHP = Player.MaxhealthStatic;
-    //}
     public void CollectInfo()
     {
         MaxHP = Player.MaxhealthStatic;
