@@ -32,6 +32,5 @@ public class RoomVariants : MonoBehaviour
 
         lastRoom.door.SetActive(true);
         lastRoom.Boss.SetActive(true);
-        //lastRoom.DestroyWalls();
     }
 }
